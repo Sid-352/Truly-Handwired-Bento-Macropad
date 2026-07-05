@@ -56,7 +56,7 @@ Build uses direct GPIO mapping to the Pico and relies entirely on internal pull-
 
 ## How to get the pins to act nice
 
-This hurdle is due to how the mechanical switches and EC11 pins are, flat prongs meant to go in designated prong holes. This is great, but, it also makes dupont female pins slip easily, so, take a pair of pliers (or a nailclipper will be suffice) and on one end of the wires apply pressure on the head until you hear a click sound, and the plastic front comes off. This crushes the head to accept flat prongs much more easily (and yes it still works). 
+This hurdle is due to how the mechanical switches and EC11 pins are, flat prongs, which are meant to go in designated prong holes. This is great but, it also makes dupont female pins slip easily. To fix this, take a pair of pliers (or a nailclipper will suffice, teeth are NOT recommended for obvious reasons) and on one end of the wires apply pressure on the head until you hear a click sound, and the plastic front easily comes off. This crushes the head to accept flat prongs much more easily (and yes the wire will still work). 
 
 Insert the wire and rotate it a little, and it should not slip anymore.
 
