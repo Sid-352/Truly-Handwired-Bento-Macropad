@@ -7,7 +7,7 @@ Also includes a companion Python script for the host PC that reads serial output
 ## My Result
 
 ![Actual Prototype](working.png)  
-*Functional prototype that made me realise how awkwardly big dupont wires can be, but if it works why fix it (though of course the repository prints are fixed and made taller).*
+*Functional prototype that made me realise how awkwardly big dupont wires can be, but if it works why fix it (though of course the repository prints are fixed and made taller). And yes I'm aware the quality of that image ain't the best.*
 
 ## Bill of Materials (BOM)
 
